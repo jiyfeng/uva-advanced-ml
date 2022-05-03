@@ -1,5 +1,6 @@
 <!--- # CS 8501 Advanced Topics in Machine Learning --->
 
+<div style="text-align: right">All models are wrong, but some are useful -- George Box</div>
 
 ## Topics
 
