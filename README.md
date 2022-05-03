@@ -1,8 +1,9 @@
 <!--- # CS 8501 Advanced Topics in Machine Learning --->
 
+
 ## Topics
 
-This is a research-oriented seminar. The goal is to learn machine learning by reading and discussing Kevin Murphy's recent book and some important machine learning papers together. The tentative topics that will be covered in this course
+The goal is to learn machine learning by reading and discussing Kevin Murphy's recent book and some important machine learning papers together. The tentative topics that will be covered in this course
 
 - Bayesian machine learning
 - Probabilistic graphical models
