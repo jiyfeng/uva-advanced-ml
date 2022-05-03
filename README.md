@@ -13,7 +13,6 @@ The goal is to learn machine learning by reading and discussing Kevin Murphy's r
 - Bayesian neural networks
 - Variational autoencoders
 - Generative adversarial networks
-- Large-scale pretrained neural networks
 
 ## Reference
 
