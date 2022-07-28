@@ -24,6 +24,16 @@ The goal is to learn machine learning by reading and discussing Kevin Murphy's r
 - Variational autoencoders
 - Generative adversarial networks
 
+## Assignments
+
+- TODO
+
+
+## Course Policy
+
+- TODO
+
+
 ## Reference
 
 ### Textbook
