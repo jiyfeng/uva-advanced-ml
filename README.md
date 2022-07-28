@@ -2,6 +2,15 @@
 
 <div style="text-align: right">All models are wrong, but some are useful -- <a href="https://en.wikipedia.org/wiki/All_models_are_wrong">George Box</a></div>
 
+
+## Course Information
+
+- Instructor: [Yangfeng Ji](https://yangfengji.net/)
+- TA: [Stephanie Schoch](https://stephanieschoch.com/)
+- Time: Monday and Wednesday, 12:30 -- 1:45 PM
+- Location: Rice 340
+
+
 ## Topics
 
 The goal is to learn machine learning by reading and discussing Kevin Murphy's recent book and some important machine learning papers together. The tentative topics that will be covered in this course
