@@ -19,7 +19,12 @@ The goal is to learn machine learning by reading and discussing Kevin Murphy's r
 
 ### Textbook
 
-- Kevin Murphy. [Probabilistic Machine Learning: Advanced Topics](https://probml.github.io/pml-book/book2.html). May 2nd, 2022
+- Murphy. [Probabilistic Machine Learning: Advanced Topics](https://probml.github.io/pml-book/book2.html). 2023
+
+**Optional**
+
+- Bishop. [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf). 2006
+- Mackay. [Information Theory, Inference, and Learning Algorithms](https://www.inference.org.uk/itprnn/book.pdf). 2003
 
 ### Research Papers
 
