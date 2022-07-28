@@ -9,6 +9,9 @@
 - TA: [Stephanie Schoch](https://stephanieschoch.com/)
 - Time: Monday and Wednesday, 12:30 -- 1:45 PM
 - Location: Rice 340
+- Office hours:
+  - Yangfeng Ji: TBA
+  - Stephanie Schoch: TBA
 
 
 ## Topics
