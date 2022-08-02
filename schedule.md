@@ -1,5 +1,7 @@
 # Lecture Schedule
 
+All the secion numbers are referred to Murphy's book [Probabilistic Machine Learning: Advanced Topics](). 
+
 | Week | Dates           | Topic                              | Readings                |
 | :--- | :---            | :---                               | :---                    |
 | 1    | Aug. 24         | Introduction                       |                         |
