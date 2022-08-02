@@ -1,6 +1,6 @@
 # Lecture Schedule
 
-All the secion numbers are referred to Murphy's book [Probabilistic Machine Learning: Advanced Topics](). 
+All the secion numbers are referred to Murphy's book [Probabilistic Machine Learning: Advanced Topics](https://probml.github.io/pml-book/book2.html). 
 
 | Week | Dates           | Topic                              | Readings                |
 | :--- | :---            | :---                               | :---                    |
@@ -18,5 +18,5 @@ All the secion numbers are referred to Murphy's book [Probabilistic Machine Lear
 | 12   | Nov. 7, 9       | Generative models: an overview     | Sec. 19.1 -- 19.4       |
 | 13   | Nov. 14, 16     | Variational autoencoders           | Sec. 20.1 -- 20.4       |
 | 14   | Nov. 21         | Auto-regressive models             | Sec. 21.1, 21.2, 21.4   |
-| 16   | Nov. 28, 30     | Generative adversarial networks    | Sec. 25.1 -- 25.5       |
-| 17   | Dec. 5          | Summary                            |                         |
+| 15   | Nov. 28, 30     | Generative adversarial networks    | Sec. 25.1 -- 25.5       |
+| 16   | Dec. 5          | Summary                            |                         |
